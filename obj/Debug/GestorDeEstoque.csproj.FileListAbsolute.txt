@@ -1,0 +1,8 @@
+C:\Users\dotop\Desktop\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.exe.config
+C:\Users\dotop\Desktop\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.exe
+C:\Users\dotop\Desktop\GestorDeEstoque\GestorDeEstoque\bin\Debug\GestorDeEstoque.pdb
+C:\Users\dotop\Desktop\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.csproj.AssemblyReference.cache
+C:\Users\dotop\Desktop\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.csproj.SuggestedBindingRedirects.cache
+C:\Users\dotop\Desktop\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\dotop\Desktop\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.exe
+C:\Users\dotop\Desktop\GestorDeEstoque\GestorDeEstoque\obj\Debug\GestorDeEstoque.pdb
